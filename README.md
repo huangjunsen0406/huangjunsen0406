@@ -11,7 +11,3 @@
 
 ### 🏆 GitHub 成就
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=huangjunsen0406&theme=gruvbox)
-
-### **🔥 访客统计**
-![Profile Views](https://komarev.com/ghpvc/?username=huangjunsen0406&label=Visitors)
- 
