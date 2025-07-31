@@ -4,7 +4,6 @@
 
 - 📌 **技术栈**: Vue.js | React | Node.js | Java
 - ✍️ **博客**: [个人博客](https://junsen.online) | [掘金](https://juejin.cn/user/747323638945111)
-- 📫 **微信**: `Junsen046`
 - 🔭 **正在学习**: 嵌入式 | C++ 
 
 ---
