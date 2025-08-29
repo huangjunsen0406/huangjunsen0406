@@ -7,6 +7,3 @@
 - 🔭 **正在学习**: 嵌入式 | C++ 
 
 ---
-
-### 🏆 GitHub 成就
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=huangjunsen0406&theme=gruvbox)
